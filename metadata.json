@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Tiêm Chủng",
+  "description": "Ứng dụng nhắc lịch và theo dõi lịch sử tiêm chủng cho trẻ em, đồng bộ dữ liệu với Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
